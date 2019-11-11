@@ -22,7 +22,6 @@ h4 {
   h1 {
     font-size: 30px; } }
 a {
-  display: block;
   color: rgba(36, 36, 36, 0.8);
   transition: opacity 0.3s; }
   a:focus, a:active, a:hover {
