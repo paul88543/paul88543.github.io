@@ -34,7 +34,7 @@ h4 {
 }
 
 a {
-  color: rgba($color-text, 0.8);
+  color: $color-text;
   transition: opacity 0.3s;
 
   &:focus,
@@ -263,6 +263,7 @@ main {
   }
 
   &-content {
+    text-align: justify;
     padding-top: 10px;
     letter-spacing: 0.8px;
     opacity: 0.8;

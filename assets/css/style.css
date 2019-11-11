@@ -22,7 +22,7 @@ h4 {
   h1 {
     font-size: 30px; } }
 a {
-  color: rgba(36, 36, 36, 0.8);
+  color: #242424;
   transition: opacity 0.3s; }
   a:focus, a:active, a:hover {
     color: inherit;
@@ -173,6 +173,7 @@ main {
   color: #d24648;
   opacity: 0.8; }
 .experience-item-content {
+  text-align: justify;
   padding-top: 10px;
   letter-spacing: 0.8px;
   opacity: 0.8; }
