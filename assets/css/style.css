@@ -76,7 +76,8 @@ main {
         padding: 20px; } }
 
 .about {
-  width: 400px; }
+  width: 400px;
+  padding-right: 10px; }
   .about .about-head {
     width: 250px;
     margin: 0 auto; }
@@ -107,7 +108,8 @@ main {
   .about .about-me ul {
     padding-left: 17px; }
     .about .about-me ul li {
-      padding-bottom: 5px; }
+      padding-bottom: 5px;
+      text-align: justify; }
   .about .contact-infos {
     opacity: 0.8; }
   .about .contact-info {

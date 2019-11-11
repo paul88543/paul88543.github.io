@@ -111,6 +111,7 @@ main {
 // About
 .about {
   width: 400px;
+  padding-right: 10px;
 
   .about-head {
     width: 250px;
@@ -161,6 +162,7 @@ main {
 
       li {
         padding-bottom: 5px;
+        text-align: justify;
       }
     }
   }
